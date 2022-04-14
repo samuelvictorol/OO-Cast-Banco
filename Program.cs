@@ -6,7 +6,6 @@ namespace ProgramOO
     {
         static void Main(string[] args)
         {
-            bool app = true;
             Console.WriteLine("REGISTRE SUA NOVA CONTA\nOBS: utilize virgula para centavos\n");
 
             Console.WriteLine("-> Digite o numero da conta:");
